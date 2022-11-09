@@ -11,10 +11,6 @@ body{
     margin-top: 200px;
     background: linear-gradient( to right,rgb(91, 3, 103),rgb(247, 37, 37));
 }
-.header{
-    text-align: center;
-    flex: 1;
-}
 .library{
     margin-right: auto;
     margin-left: auto;
