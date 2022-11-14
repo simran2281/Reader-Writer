@@ -82,7 +82,7 @@ async function Writer(writerID, delay)
 
 async function start()
 {
-
+    alert("Operation is start");
     Writer(1, 44);
     Writer(2, 28);
     Writer(3, 10);
